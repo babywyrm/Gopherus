@@ -1,3 +1,10 @@
+Yo.
+<br>
+<br>
+https://highon.coffee/blog/ssrf-cheat-sheet/
+<br>
+<br>
+
 What is SSRF?
 Server Side Request Forgery (SSRF) is a web vulnerability that allows an attacker to exploit vulnerable functionality to access server side or local network services / functionality by affectively traversing the external firewall using vulnerable web functionality.
 
